@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Murat",
+      "salary": "6000",
+      "department": "Muhasebe"
+    },
+    {
+      "id": "3",
+      "name": "Mahmut",
+      "salary": "5000",
+      "department": "bilişim"
+    },
+    {
+      "name": "ahmet",
+      "salary": "3000",
+      "department": "mehmet",
+      "id": "_OrxTe_"
+    }
+  ]
+}
